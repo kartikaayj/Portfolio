@@ -1,0 +1,9 @@
+openai
+grammarbot
+transformers
+sentence-transformers
+textstat
+flask
+language_tool_python
+huggingface_hub
+shutil
